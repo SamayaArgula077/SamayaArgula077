@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SamayaArgula077
 - 👀 I’m interested in coding and mathematics
 - 🌱 I’m currently pursuing graduation in Gitam School of Technology
-- 💞️ I’m looking to collaborate on programming projects
 - 📫 How to reach me sargula@gitam.in
 
 
